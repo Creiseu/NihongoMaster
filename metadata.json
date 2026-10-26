@@ -1,0 +1,6 @@
+{
+  "name": "NihongoMaster - Japanese N5 & N4 SRS & Kanji Canvas",
+  "description": "Learn Japanese Hiragana, Katakana, and JLPT N5 & N4 Kanji with spaced repetition flashcards, interactive stroke writing canvas, and offline progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
